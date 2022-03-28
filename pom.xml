@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://35.183.95.62:8081/repository/IBM-release/</url>
+	      <url>http://3.96.64.101:8081/repository/BMO1-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.183.95.62:8081/repository/IBM-snapshot/</url>
+	      <url>http://3.96.64.101:8081/repository/ABCsnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
